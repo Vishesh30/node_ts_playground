@@ -1,0 +1,2817 @@
+[
+    {
+        "boName": "MDRS_MCP",
+        "esName": "MessageCommunicationProfile",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_INBOUND_SI",
+        "esName": "InboundServiceInterface",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_OUTBOUND_SI",
+        "esName": "OutboundServiceInterface",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_DATA_TYPE",
+        "esName": "DataType",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_FAULT_MT",
+        "esName": "FaultMessageType",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_INBOUND_PA",
+        "esName": "InboundProcessAgent",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_KT_DOCUMENT",
+        "esName": "KnowledgeTransferDocument",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_MCPP",
+        "esName": "MessageCommunicationProfileProperty",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_MESSAGE_TYPE",
+        "esName": "MessageType",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_MODELING_DIAGRAM",
+        "esName": "ModelingDiagram",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_MO_USAGE",
+        "esName": "MetaObjectUsage",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_OUTBOUND_PA",
+        "esName": "OutboundProcessAgent",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_PC_INTERACTION",
+        "esName": "ProcessComponentInteraction",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_SEMANTIC_CONTRACT",
+        "esName": "SemanticContract",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_SYS_MESSAGE_GROUP",
+        "esName": "SystemMessageTypeGroup",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_TRANS_DEF",
+        "esName": "DataTransformationDefinition",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_UI_TEXT",
+        "esName": "UIText",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_INTERACTION_ROLE",
+        "esName": "InteractionRole",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_BUSINESS_ACTION",
+        "esName": "BusinessAction",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_BUSINESS_FIELD",
+        "esName": "BusinessField",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "RAL_LOG_ITEM",
+        "esName": "ReadAccessLogItem",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_DEPLOYMENT_UNIT",
+        "esName": "DeploymentUnit",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_NAMESPACE",
+        "esName": "Namespace",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_PROCESS_COMPONENT",
+        "esName": "ProcessComponent",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_BUSINESS_OBJECT",
+        "esName": "BusinessObject",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "RAL_FIELD_GROUP_CONF",
+        "esName": "ReadAccessLogConfiguration",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "MDRS_MCPGROUP",
+        "esName": "MessageCommunicationProfileGroup",
+        "newNameSpace": "http://sap.com/udm/Basis/MetadataRepositoryManagement",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+    {
+        "boName": "SPAF_TECHNICAL_ERROR_BO",
+        "esName": "ProcessIntegrationInboundError",
+        "newNameSpace": "http://sap.com/udm/Basis/PAFErrorHandling",
+        "oldNameSpace": "http://sap.com/xi/BASIS/Global"
+    },
+    {
+        "boName": "PERSONAL_SECURITY_ENVIRONMENT",
+        "esName": "PersonalSecurityEnvironment",
+        "newNameSpace": "http://sap.com/udm/Basis/Security",
+        "oldNameSpace": "http://sap.com/security"
+    },
+    {
+        "boName": "ACCESS_CONTROL_LIST",
+        "esName": "AccessControlList",
+        "newNameSpace": "http://sap.com/udm/Basis/Security",
+        "oldNameSpace": "http://sap.com/xi/BASIS/Global"
+    },
+    {
+        "boName": "ACCESS_GROUP",
+        "esName": "AccessGroup",
+        "newNameSpace": "http://sap.com/udm/Basis/Security",
+        "oldNameSpace": "http://sap.com/xi/BASIS/Global"
+    },
+    {
+        "boName": "SECURITY_CREDENTIAL_CERTIFICAT",
+        "esName": "SecurityCredentialCertificate",
+        "newNameSpace": "http://sap.com/udm/Basis/Security",
+        "oldNameSpace": "http://sap.com/security"
+    },
+    {
+        "boName": "ACCESS_CONTROL_LIST2",
+        "esName": "AccessControlList2",
+        "newNameSpace": "http://sap.com/udm/Basis/Security",
+        "oldNameSpace": "http://sap.com/xi/BASIS/Global"
+    },
+    {
+        "boName": "GLO_CN_GT_TAX_CLASS_NUMBERS",
+        "esName": "CNGoldenTaxClassNumbers",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/CustomerInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "GLO_CN_GT_MASTERDATA",
+        "esName": "CNGoldenTaxMasterdata",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/CustomerInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "APCI_CUST_INV_REQUEST",
+        "esName": "CustomerInvoiceRequest",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/CustomerInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CustomerInvoicing/Global"
+    },
+    {
+        "boName": "APCI_CUST_INVOICING_RUN",
+        "esName": "CustomerInvoicingRun",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/CustomerInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CustomerInvoicing/Global"
+    },
+    {
+        "boName": "GLO_CN_GTCIR",
+        "esName": "CN_GoldenTaxCustomerInvoiceRegister",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/CustomerInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "APCI_CUSTOMER_INVOICE",
+        "esName": "CustomerInvoice",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/CustomerInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CustomerInvoicing/Global"
+    },
+    {
+        "boName": "APCI_POS_TRANSACTION",
+        "esName": "PointOfSaleTransaction",
+        "newNameSpace": "http://sap.com/udm/CustomerInvoicing/PointOfSaleTransactionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CustomerInvoicing/Global"
+    },
+    {
+        "boName": "RESPONSE_OPTION",
+        "esName": "CampaignResponseOption",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CampaignManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "CAMPAIGN_EXECUTION_RUN",
+        "esName": "CampaignExecutionRun",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CampaignManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "TARGET_GROUP_RUN",
+        "esName": "TargetGroupMarketingActivityCreationRun",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CampaignManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "CAMPAIGN",
+        "esName": "Campaign",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CampaignManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "TARGET_GROUP",
+        "esName": "TargetGroup",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CampaignManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "CUSTOMER_CONTRACT",
+        "esName": "CustomerContract",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CustomerContractProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "KBF_CPAS",
+        "esName": "CustomerProblemAndSolution",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CustomerProblemAndSolutionAdministration",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "CUSTOMER_QUOTE",
+        "esName": "CustomerQuote",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CustomerQuoteProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "CTD_VIEW_OF_PROJECT",
+        "esName": "CustomerTransactionDocumentViewOfProject",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CustomerRelationshipAuxiliariesProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "REVENUE_ASPECT_OF_SSD",
+        "esName": "RevenueAspectOfSalesAndServiceDocument",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CustomerRelationshipAuxiliariesProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "CUSTOMER_RETURN",
+        "esName": "CustomerReturn",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/CustomerReturnProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "LEAD",
+        "esName": "Lead",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/LeadProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "OPPORTUNITY",
+        "esName": "Opportunity",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/OpportunityProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SALES_ORDER_CREDIT_WORTH_RUN",
+        "esName": "SalesOrderCreditWorthinessRun",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/SalesOrderProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SALES_ORDER",
+        "esName": "SalesOrder",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/SalesOrderProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SAP_SUPPORT_REQUEST",
+        "esName": "SAPSupportRequest",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/SAPSupportRequestProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SRV_CONF_INV_BLOCK_UPDT_RUN",
+        "esName": "ServiceConfirmationInvoiceBlockUpdateRun",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/ServiceConfirmationProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SERVICE_CONFIRMATION",
+        "esName": "ServiceConfirmation",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/ServiceConfirmationProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SERVICE_ORDER",
+        "esName": "ServiceOrder",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/ServiceOrderProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "SERVICE_REQUEST",
+        "esName": "ServiceRequest",
+        "newNameSpace": "http://sap.com/udm/CustomerRelationshipManagement/ServiceRequestProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/CRM/Global"
+    },
+    {
+        "boName": "GLO_AB_REPORT",
+        "esName": "AccountBalanceReport",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FIA_ACC_RECON_RUN",
+        "esName": "AccountingReconciliationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_SALES_LEDGER_ACCOUNT",
+        "esName": "SalesLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_CLEARING_OBJ_HISTORY",
+        "esName": "AccountingClearingObjectHistory",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_CASH_LEDGER_ACCOUNT",
+        "esName": "CashLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_MATERIAL_LEDGER_ACCT",
+        "esName": "MaterialLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_PRODUCTION_LACCT",
+        "esName": "ProductionLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FIXED_ASSET",
+        "esName": "FixedAsset",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FIXED_ASSET_SETLMNT_RUN",
+        "esName": "FixedAssetSettlementRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_COB_SETTLEMENT_RUN",
+        "esName": "CostObjectSettlementRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ODCLA_OVERHEAD_RUN",
+        "esName": "OtherDirectCostLedgerAccountOverheadCostCalculationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ARPLA_DISC_RUN",
+        "esName": "AccountsReceivablePayableLedgerAccountDiscountingRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_MAT_CFIC_RUN",
+        "esName": "MaterialCostFlowItemCalculationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_TAX_LEDGER_ACCOUNT",
+        "esName": "TaxLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_MAT_FIFO_RUN",
+        "esName": "MaterialFirstInFirstOutPriceCalculationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_CUM_YEAR_TOTAL_CALC_RUN",
+        "esName": "CumulativeYearTotalsCalculationRunForSubledgerAndRegisters",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "GLO_ACC_DATA_COLLECT_RES",
+        "esName": "AccountingDataCollectionForLegalReporting",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "GLO_GA_REPORT",
+        "esName": "CN_GoldenAuditReport",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FIA_OHCLA_OVERHEAD_RUN",
+        "esName": "OverheadCostLedgerAccountOverheadCostCalculationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_PRDLA_OVERHEAD_RUN",
+        "esName": "ProductionLedgerAccountOverheadCostCalculationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "GLO_AD_REPORT",
+        "esName": "AccountingDocumentReport",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FIA_WIP_CLEARING_RUN",
+        "esName": "WorkInProcessClearingRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "GLO_CF_REPORT",
+        "esName": "CashFlowStatement",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "GLO_BAL_REPORT",
+        "esName": "BalanceSheetAndIncomeStatementReport",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "GLO_ACC_DATA_COLLECT_RUN",
+        "esName": "AccountingDataCollectionForLegalReportingRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FIA_ACTUAL_COST_ALLOCATION_RUN",
+        "esName": "ActualCostAllocationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ACCOUNTING_DOCUMENT",
+        "esName": "AccountingDocument",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_REC_ACC_ENTRY_RUN",
+        "esName": "RecurringAccountingEntryRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "GLO_AD_REPORT_RUN",
+        "esName": "AccountingDocumentReportRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "GLO_AB_REPORT_RUN",
+        "esName": "AccountBalanceReportRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FIA_SLSLA_OVERHEAD_RUN",
+        "esName": "SalesLedgerAccountOverheadCostCalculationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_SLSLA_ACCRUALS_RUN",
+        "esName": "SalesLedgerAccountAccrualsRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_OHC_ASSES_RUN",
+        "esName": "OverheadCostAssessmentRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FAV_OPEN_ITEM",
+        "esName": "FinancialAccountingViewOfOpenItem",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ACC_PROC_ERROR",
+        "esName": "AccountingProcessingError",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_GL_ACCOUNT",
+        "esName": "GeneralLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_GRIR_CLEARING_RUN",
+        "esName": "GoodsReceiptInvoiceReceiptClearingRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_MISC_LEDGER_ACCOUNT",
+        "esName": "MiscellaneousSubledgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ADD_PUR_COST_POSTING_P",
+        "esName": "AdditionalPurchasingCostPostingProfile",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_OTHDIRECT_COST_LACCT",
+        "esName": "OtherDirectCostLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_GRIR_CLR_RUN_CREATION_RUN",
+        "esName": "GoodsReceiptInvoiceReceiptClearingRunCreationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_BAL_CARFWD_RUN",
+        "esName": "BalanceCarryForwardRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ARPLA_RGRP_RUN",
+        "esName": "AccountsReceivablePayableLedgerAccountRegroupingRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIN_FINANCIALS_NOTIFICATION",
+        "esName": "FinancialsNotification_V1",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ARP_LEDGER_ACCT_REM",
+        "esName": "AccountsReceivablePayableLedgerAccountForeignCurrencyRemeasurementRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_INVEN_PRICE_CHNG_RUN",
+        "esName": "InventoryPriceChangeRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FIXED_ASSET_DEPR",
+        "esName": "FixedAssetDepreciationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_CASHLA_FCR_RUN",
+        "esName": "CashLedgerAccountForeignCurrencyRemeasurementRun",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ACC_ENTRY_REC_DEF",
+        "esName": "AccountingEntryRecurrenceDefinition",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_OVERHEAD_COST_LACCT",
+        "esName": "OverheadCostLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_PURCHASE_LACCT",
+        "esName": "PurchaseLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FINANCIALS_NOTIFICATION",
+        "esName": "FinancialsNotification",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ACC_NOTIF",
+        "esName": "AccountingNotification",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ACCOUNTING_ENTRY",
+        "esName": "AccountingEntry",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_ARP_LEDGER_ACCOUNT",
+        "esName": "AccountsReceivablePayableLedgerAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/Accounting",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_MATERIAL_COST_EST",
+        "esName": "MaterialCostEstimate",
+        "newNameSpace": "http://sap.com/udm/Financials/Costing",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FOPXD_TXDECL_EXEC_RUN",
+        "esName": "TaxDeclarationExecutionRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_RP_ITEM",
+        "esName": "ReceivablePayableItem",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_DUECLR",
+        "esName": "DueClearing",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_TXDR",
+        "esName": "TaxDeclarationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "GLO_SUMMARY_INVOICE_JP",
+        "esName": "JapanSummaryInvoice",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FOPXD_DP",
+        "esName": "DuePayment",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_DUNRUN",
+        "esName": "DunningRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "GLO_SUMMARY_INVOICE_JP_RUN",
+        "esName": "GloSummaryInvoiceJPRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FOPXD_TRPASR",
+        "esName": "TradeReceivablesPayablesAccountStatementCreationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "GLO_PAY_NAYOSE_JP",
+        "esName": "Nayose",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FOPXD_TRPREG",
+        "esName": "TradeReceivablesPayablesRegister",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_TAX_DUE_PAYMENT",
+        "esName": "TaxDuePayment",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_TRPAS",
+        "esName": "TradeReceivablesPayablesAccountStatement",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_TAXRPENT",
+        "esName": "TaxReceivablesPayablesEntry",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_DUNNING",
+        "esName": "Dunning",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_ECSLR",
+        "esName": "EuropeanCommunitySalesListReport",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_TRPACCT",
+        "esName": "TradeReceivablesPayablesAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_DCR",
+        "esName": "DueClearingRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_PTWTD",
+        "esName": "ProductAndWithholdingTaxDeclaration",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_PTXD",
+        "esName": "ProductTaxDeclaration",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_DPR",
+        "esName": "DuePaymentRun",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_WHT",
+        "esName": "WithholdingTaxDeclaration",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FOPXD_TAXRPREG",
+        "esName": "TaxReceivablesPayablesRegister",
+        "newNameSpace": "http://sap.com/udm/Financials/DueItemProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/DueItemManagement/Global"
+    },
+    {
+        "boName": "FIA_COMP_ACC_DEF_SET",
+        "esName": "CompanyAccountingDefaultSettings",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/CompanyFinancialsProcessControl/Global"
+    },
+    {
+        "boName": "FIA_FAV_PURCHASING_DOC",
+        "esName": "FinancialAccountingViewOfPurchasingDocument",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_OVERHEAD_COST_SCHEME",
+        "esName": "OverheadCostScheme",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_PRODUCT_VALU_DATA",
+        "esName": "ProductValuationData",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_SET_OF_BOOKS",
+        "esName": "SetOfBooks",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_COB_SETTLEMENT_RULE",
+        "esName": "CostObjectSettlementRule",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FAV_COST_OBJECT",
+        "esName": "FinancialAccountingViewOfCostObject",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FAV_PRODUCTION_DOC",
+        "esName": "FinancialAccountingViewOfProductionDocument",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FAV_PROJECT",
+        "esName": "FinancialAccountingViewOfProject",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_MATERIAL_VALU_DATA",
+        "esName": "MaterialValuationData",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_SERVPROD_VALU_DATA",
+        "esName": "ServiceProductValuationData",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_RES_VALU_DATA",
+        "esName": "ResourceValuationData",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FIN_VIEW_OF_CONTRACT",
+        "esName": "FinancialsViewOfContract",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_OHC_ASSES_RULE",
+        "esName": "OverheadCostAssessmentRule",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FAV_SLS_SRV_DOC",
+        "esName": "FinancialAccountingViewOfSalesAndServiceDocument",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_FAV_RA_SLS_SRV",
+        "esName": "FinancialAccountingViewOfSalesAndServiceDocumentRevenueAspect",
+        "newNameSpace": "http://sap.com/udm/Financials/FinancialAccountingMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FinancialAccounting/Global"
+    },
+    {
+        "boName": "FIA_LEASE_CONTRACT",
+        "esName": "LeaseContract",
+        "newNameSpace": "http://sap.com/udm/Financials/LeaseContractManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/LeaseContractManagement/Global"
+    },
+    {
+        "boName": "FOPXP_CASHTRAN",
+        "esName": "CashTransfer",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BOEREC",
+        "esName": "BillOfExchangeReceivable",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PMDCR",
+        "esName": "PaymentMediaDepositCreationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BPAYO",
+        "esName": "BankPaymentOrder",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_POPS",
+        "esName": "PaymentOrderProcessingStatement",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYAL",
+        "esName": "PaymentAllocation",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BOEDEPO",
+        "esName": "BillOfExchangeDeposit",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_CPFR_OF",
+        "esName": "CompanyPaymentFileRegisterOutgoingFile",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BOESTOR",
+        "esName": "BillOfExchangeStorage",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_CHQSTOR",
+        "esName": "ChequeStorage",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_CHQDEPO",
+        "esName": "ChequeDeposit",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYMENT",
+        "esName": "Payment",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYORD",
+        "esName": "PaymentOrder",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_COMP_PAY_FILE_REG",
+        "esName": "CompanyPaymentFileRegister",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BOECASH",
+        "esName": "BillOfExchangeCashing",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_CHPO",
+        "esName": "ClearingHousePaymentOrder",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BANKSTAT",
+        "esName": "HouseBankStatement",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_CSHSTR",
+        "esName": "CashStorage",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_BOEPAY",
+        "esName": "BillOfExchangePayable",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYALR",
+        "esName": "PaymentAllocationRun",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYBATCH",
+        "esName": "PaymentBatch",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_HBA",
+        "esName": "HouseBankAccount",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_INCHQ",
+        "esName": "IncomingCheque",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYREG",
+        "esName": "PaymentRegister",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_OUTCHQ",
+        "esName": "OutgoingCheque",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "FOPXP_PAYADV",
+        "esName": "PaymentAdvice",
+        "newNameSpace": "http://sap.com/udm/Financials/PaymentProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Payment/Global"
+    },
+    {
+        "boName": "MARKET_SEGMENT",
+        "esName": "MarketSegment",
+        "newNameSpace": "http://sap.com/udm/Foundation/AccountingCodingBlockDistributionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MarketSegment/Global"
+    },
+    {
+        "boName": "/ISCB/CUSTOM_OBJECT_1",
+        "esName": "CodingBlockCustomObject1",
+        "newNameSpace": "http://sap.com/udm/Foundation/AccountingCodingBlockDistributionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/CodingBlock/Global"
+    },
+    {
+        "boName": "/ISCB/CODING_BLOCK",
+        "esName": "AccountingCodingBlockDistribution",
+        "newNameSpace": "http://sap.com/udm/Foundation/AccountingCodingBlockDistributionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/CodingBlock/Global"
+    },
+    {
+        "boName": "/ISCB/CODING_BLOCK_SUPPL",
+        "esName": "AccountingCodingBlockDistributionSupplement",
+        "newNameSpace": "http://sap.com/udm/Foundation/AccountingCodingBlockDistributionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/CodingBlock/Global"
+    },
+    {
+        "boName": "ACTIVITY",
+        "esName": "Activity",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "ACTIVITY_TASK",
+        "esName": "ActivityTask",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "FAX_ACTIVITY",
+        "esName": "FaxActivity",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "LETTER_ACTIVITY",
+        "esName": "LetterActivity",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "PHONECALL_ACTIVITY",
+        "esName": "PhoneCallActivity",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "APPOINTMENT_ACTIVITY",
+        "esName": "AppointmentActivity",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "EMAIL_ACTIVITY",
+        "esName": "EmailActivity",
+        "newNameSpace": "http://sap.com/udm/Foundation/ActivityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Activity/Global"
+    },
+    {
+        "boName": "COMMUNICATION_DATA",
+        "esName": "CommunicationData",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "PERSONAL_ADDRESS",
+        "esName": "PersonalAddress",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "ORGANISATION_ADDRESS",
+        "esName": "OrganisationAddress",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "PARTNER_ADDRESS",
+        "esName": "PartnerAddress",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "USED_ADDRESS",
+        "esName": "UsedAddress",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/UsedAddress/Global"
+    },
+    {
+        "boName": "WORKPLACE_ADDRESS",
+        "esName": "WorkplaceAddress",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "USED_ADDRESS_CO",
+        "esName": "UsedAddressControllerObject",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "ADDRESS_SNAPSHOT",
+        "esName": "AddressSnapshot",
+        "newNameSpace": "http://sap.com/udm/Foundation/AddressDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Address/Global"
+    },
+    {
+        "boName": "APPLICATION_LOG",
+        "esName": "ApplicationLog",
+        "newNameSpace": "http://sap.com/udm/Foundation/ApplicationLogAdministration",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ApplicationLog/Global"
+    },
+    {
+        "boName": "BACKGROUND_JOB",
+        "esName": "BackgroundJob",
+        "newNameSpace": "http://sap.com/udm/Foundation/BackgroundJobManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/BackgroundJobManagement/Global"
+    },
+    {
+        "boName": "BACKGROUND_JOB_SCHEDULE",
+        "esName": "BackgroundJobSchedule",
+        "newNameSpace": "http://sap.com/udm/Foundation/BackgroundJobManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/BackgroundJobManagement/Global"
+    },
+    {
+        "boName": "BCT_FINETUNING_UPLOAD",
+        "esName": "BusinessConfigurationUpload",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessConfiguration",
+        "oldNameSpace": "http://sap.com/xi/BusinessConfigurationTools"
+    },
+    {
+        "boName": "BCT_WS_FT_EXPORT",
+        "esName": "BusinessConfigurationFineTuningExport",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessConfiguration",
+        "oldNameSpace": "http://sap.com/xi/BusinessConfigurationTools"
+    },
+    {
+        "boName": "BCT_BUSINESS_CONFIGURATI",
+        "esName": "BusinessConfigurationWorkspace",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessConfiguration",
+        "oldNameSpace": "http://sap.com/xi/BusinessConfigurationTools"
+    },
+    {
+        "boName": "BDF_DOC_FLOW",
+        "esName": "BusinessDocumentFlow",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessDocumentFlowProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessDocumentFlow/Global"
+    },
+    {
+        "boName": "BUS_PROC_CHAIN_ASSIGN",
+        "esName": "BusinessProcessChainAssignment",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessDocumentFlowProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessDocumentFlow/Global"
+    },
+    {
+        "boName": "APBMV_BDM_MONI_VIEW",
+        "esName": "BusinessDocumentMessageMonitoringView",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessDocumentFlowProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessDocumentFlow/Global"
+    },
+    {
+        "boName": "EMPLOYEE",
+        "esName": "Employee",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "BUPA_APPROVAL_REQUEST",
+        "esName": "BusinessPartnerApprovalRequest",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "PARTY",
+        "esName": "Party",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Party/Global"
+    },
+    {
+        "boName": "CUSTOMER",
+        "esName": "Customer",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "FOPXF_PAYMENT_AGREEMENT",
+        "esName": "PaymentAgreement",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentAgreement/Global"
+    },
+    {
+        "boName": "FOPXF_DIRECT_DEBIT_MANDATE",
+        "esName": "DirectDebitMandate",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/DirectDebitMandate/Global"
+    },
+    {
+        "boName": "COMPANY_TAX_ARRANGEMENT",
+        "esName": "CompanyTaxArrangement",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/TaxArrangement/Global"
+    },
+    {
+        "boName": "BUSINESS_PARTNER_HIERARCHY",
+        "esName": "BusinessPartnerHierarchy",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "SALES_ARRANGEMENT",
+        "esName": "SalesArrangement",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "BUSINESS_PARTNER_PVL",
+        "esName": "BusinessPartnerPropertyValuationList",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "CLEARING_HOUSE",
+        "esName": "ClearingHouse",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "PCFO_PX_PAYMENT_CARD",
+        "esName": "PaymentCard",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentCard/Global"
+    },
+    {
+        "boName": "HOUSE_BANK",
+        "esName": "HouseBank",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "SUPPLIER",
+        "esName": "Supplier",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "PROCUREMENT_ARRANGEMENT",
+        "esName": "ProcurementArrangement",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "/SRMAP/SUP_PRCAT_LFCYCLE",
+        "esName": "SupplierProductCategoryLifeCycle",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SupplierProductCategoryLifeCycle/Global"
+    },
+    {
+        "boName": "BUPA_DUPLICATE_CHECK",
+        "esName": "BusinessPartnerDuplicateCheck",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "TAX_AUTHORITY",
+        "esName": "TaxAuthority",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "CUTEC_CUST_TAX_EXM_CERT",
+        "esName": "CustomerTaxExemptionCertificate",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/CustomerTaxExcemptionCertificate/Global"
+    },
+    {
+        "boName": "BUSINESS_PARTNER_TMPL",
+        "esName": "BusinessPartner_Template",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "BUSINESS_PARTNER_RELATIONSHIP",
+        "esName": "BusinessPartnerRelationship",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartnerRelationship/Global"
+    },
+    {
+        "boName": "MARKETING_CONSENT",
+        "esName": "MarketingConsent",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "FOPXF_CDT",
+        "esName": "CashDiscountTerms",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/CashDiscountTerms/Global"
+    },
+    {
+        "boName": "BUSINESS_PARTNER",
+        "esName": "BusinessPartner",
+        "newNameSpace": "http://sap.com/udm/Foundation/BusinessPartnerDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BusinessPartner/Global"
+    },
+    {
+        "boName": "FOPXF_FATDOC",
+        "esName": "FinancialAuditTrailDocumentation",
+        "newNameSpace": "http://sap.com/udm/Foundation/CashFlowManagementFoundation",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/FinancialAuditTrailDocumentation/Global"
+    },
+    {
+        "boName": "GLO_BO_ADD_TAX_DATA_BP_IT",
+        "esName": "GloBoAddTaxDataBpIt",
+        "newNameSpace": "http://sap.com/udm/Foundation/CashFlowManagementFoundation",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "GLO_BO_MRP_TRF_SUPP_TAX_RT_IN",
+        "esName": "GloBoMrpTrfSuppTaxRtIn",
+        "newNameSpace": "http://sap.com/udm/Foundation/CashFlowManagementFoundation",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization"
+    },
+    {
+        "boName": "FOPXF_EXRCEXPL",
+        "esName": "CashFlowExpenseAndReceiptExplanation",
+        "newNameSpace": "http://sap.com/udm/Foundation/CashFlowManagementFoundation",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/CashFlowManagementFoundation/Global"
+    },
+    {
+        "boName": "/ISPCD/CHANGE_DOCUMENT",
+        "esName": "ChangeDocument",
+        "newNameSpace": "http://sap.com/udm/Foundation/ChangeDocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/PlatformChangeDocument/Global"
+    },
+    {
+        "boName": "OBJECT_IDENTIFIER_MAPPING",
+        "esName": "ObjectIdentifierMapping",
+        "newNameSpace": "http://sap.com/udm/Foundation/CommunicationServicesManagement",
+        "oldNameSpace": "http://sap.com/xi/CommunicationServicesManagement/Global"
+    },
+    {
+        "boName": "/DOC/MBCA",
+        "esName": "MessageBasedCommunicationArrangement",
+        "newNameSpace": "http://sap.com/udm/Foundation/CommunicationServicesManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/COMMUNICATION_SYSTEM",
+        "esName": "CommunicationSystem",
+        "newNameSpace": "http://sap.com/udm/Foundation/CommunicationServicesManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_COMM_ARRANGEMENT",
+        "esName": "CommunicationArrangement",
+        "newNameSpace": "http://sap.com/udm/Foundation/CommunicationServicesManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "TRANSSIM_CONTROL",
+        "esName": "TransactionalPlanningDataBufferControl",
+        "newNameSpace": "http://sap.com/udm/Foundation/ConstraintBasedPlanningEngine",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/TransactionalPlanningDataBufferControl/Global"
+    },
+    {
+        "boName": "/CCAT/SICC",
+        "esName": "ServiceIssueCategoryCatalogue",
+        "newNameSpace": "http://sap.com/udm/Foundation/CustomerServiceMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ServiceIssue/Global"
+    },
+    {
+        "boName": "SERVICE_LEVEL_OBJECTIVE",
+        "esName": "ServiceLevelObjective",
+        "newNameSpace": "http://sap.com/udm/Foundation/CustomerServiceMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ServiceLevelObjective/Global"
+    },
+    {
+        "boName": "DFV_RUN",
+        "esName": "DataFlowVerificationRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/DataFlowVerification",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/DataFlowVerification/Global"
+    },
+    {
+        "boName": "DFV_RESULT",
+        "esName": "DataFlowVerificationResult",
+        "newNameSpace": "http://sap.com/udm/Foundation/DataFlowVerification",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/DataFlowVerification/Global"
+    },
+    {
+        "boName": "DTRS_CAL_DAY_RECUR_SPEC",
+        "esName": "CalendarDayRecurrenceSpecification",
+        "newNameSpace": "http://sap.com/udm/Foundation/DateAndTime",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/DateAndTime/Global"
+    },
+    {
+        "boName": "DTOH_OPERATING_HOURS",
+        "esName": "OperatingHours",
+        "newNameSpace": "http://sap.com/udm/Foundation/DateAndTime",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/OperatingHours/Global"
+    },
+    {
+        "boName": "/DOC/DOCUMENT_TEMPLATE",
+        "esName": "DocumentTemplate",
+        "newNameSpace": "http://sap.com/udm/Foundation/DocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/DOCUMENT",
+        "esName": "Document",
+        "newNameSpace": "http://sap.com/udm/Foundation/DocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/DOCUMENT_PROP_VLIST",
+        "esName": "DocumentPropertyValuationList",
+        "newNameSpace": "http://sap.com/udm/Foundation/DocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/TEXT_COLLECTION",
+        "esName": "TextCollection",
+        "newNameSpace": "http://sap.com/udm/Foundation/DocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_EMAIL_TEMPLATE",
+        "esName": "FormattedEmailTemplate",
+        "newNameSpace": "http://sap.com/udm/Foundation/DocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/ATTACHMENT_FOLDER",
+        "esName": "AttachmentFolder",
+        "newNameSpace": "http://sap.com/udm/Foundation/DocumentManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "ENGINEERING_CHANGE_ORDER",
+        "esName": "EngineeringChangeOrder",
+        "newNameSpace": "http://sap.com/udm/Foundation/EngineeringChangeProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/EngineeringChangeOrder/Global"
+    },
+    {
+        "boName": "CER_EXCHANGE_RATE",
+        "esName": "ExchangeRate",
+        "newNameSpace": "http://sap.com/udm/Foundation/FinancialMarketDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/CurrencyAndExchangeRates/Global"
+    },
+    {
+        "boName": "FOPXF_BNKDE_FILE",
+        "esName": "BankDirectoryEntryFile",
+        "newNameSpace": "http://sap.com/udm/Foundation/FinancialMarketDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BankDirectoryEntry/Global"
+    },
+    {
+        "boName": "FOPXF_BNKDE",
+        "esName": "BankDirectoryEntry",
+        "newNameSpace": "http://sap.com/udm/Foundation/FinancialMarketDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/BankDirectoryEntry/Global"
+    },
+    {
+        "boName": "FIN_FUND",
+        "esName": "Fund",
+        "newNameSpace": "http://sap.com/udm/Foundation/FUNDMANAGEMENT",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/FundManagement/Global"
+    },
+    {
+        "boName": "FIN_FUNCTION",
+        "esName": "Function",
+        "newNameSpace": "http://sap.com/udm/Foundation/FUNDMANAGEMENT",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/FundManagement/Global"
+    },
+    {
+        "boName": "GDSTG_GOODS_TAG",
+        "esName": "GoodsTag",
+        "newNameSpace": "http://sap.com/udm/Foundation/GoodsTagProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/GoodsTagProcessing/Global"
+    },
+    {
+        "boName": "FIN_GRANT",
+        "esName": "Grant",
+        "newNameSpace": "http://sap.com/udm/Foundation/GrantManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/GrantManagement/Global"
+    },
+    {
+        "boName": "HCF_WORKAGREEMENT",
+        "esName": "WorkAgreement",
+        "newNameSpace": "http://sap.com/udm/Foundation/HumanCapitalMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/HCM/Global"
+    },
+    {
+        "boName": "HCF_EMPLOYMENT",
+        "esName": "Employment",
+        "newNameSpace": "http://sap.com/udm/Foundation/HumanCapitalMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/HCM/Global"
+    },
+    {
+        "boName": "SEC_COMM_CREDENTIALS_BO",
+        "esName": "CommunicationCredentials",
+        "newNameSpace": "http://sap.com/udm/Foundation/IdentityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Security"
+    },
+    {
+        "boName": "IAM_IDENTITY",
+        "esName": "IAMViewOfIdentity",
+        "newNameSpace": "http://sap.com/udm/Foundation/IdentityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/IdentityManagement/Global"
+    },
+    {
+        "boName": "IDENTITY",
+        "esName": "Identity",
+        "newNameSpace": "http://sap.com/udm/Foundation/IdentityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/IdentityManagement/Global"
+    },
+    {
+        "boName": "IDENTITY_BUSINESS_ROLE",
+        "esName": "IdentityBusinessRole",
+        "newNameSpace": "http://sap.com/udm/Foundation/IdentityManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/IdentityManagement/Global"
+    },
+    {
+        "boName": "ILM_OBSOLETE_BUPA_HANDLING_RUN",
+        "esName": "ObsoleteBupaHandlingRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "READ_ACCESS_LOG",
+        "esName": "ReadAccessLog",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_NETWORK_ITEM",
+        "esName": "BusinessObjectNetworkItem",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_DELETION_PERF_TRACE",
+        "esName": "InformationLifecycleManagementDeletionPerformanceTrace",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_NETWORK_INSTANCE_ISSUE",
+        "esName": "BusinessObjectNetworkAnalysisInstanceIssue",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BUPA_LIFE_CYCLE",
+        "esName": "IlmBusinessPartnerLifeCycle",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_NETWORK_LARGE_PROCESS",
+        "esName": "BusinessObjectNetworkLargeProcess",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_NETWORK_RUN",
+        "esName": "BusinessObjectNetworkAnalysisRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_DELETION_RUN",
+        "esName": "BusinessObjectNetworkDeletionRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_OBS_BUPA_BLOCK_USAGE_RUN",
+        "esName": "ILMObsoleteBupaBlockUsageRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_DELETION_LOG",
+        "esName": "InformationLifecycleManagementDeletionLog",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_NETWORK_ANALYSIS",
+        "esName": "BusinessObjectNetworkAnalysis",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_BO_NETWORK_OTC_ISSUE",
+        "esName": "BusinessObjectNetworkAnalysisObjectTypeCodeIssue",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "ILM_DESTR_PERS_REMOV_LIST",
+        "esName": "DestructionPersonRemovalList",
+        "newNameSpace": "http://sap.com/udm/Foundation/InformationLifeCycleManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/InformationLifeCycleManagement/Global"
+    },
+    {
+        "boName": "/DOC/OM_PRINT_QUEUE",
+        "esName": "PrintQueue",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_OUTPUT_REQUEST",
+        "esName": "OutputRequest",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_OUTPUT_TASK",
+        "esName": "OutputTask",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_DETERM_RULE",
+        "esName": "OutputDeterminationRule",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_CTRL_OUTPUT_REQ",
+        "esName": "ControlledOutputRequest",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/IO_EMAIL_ENCR_SIGN_ACT",
+        "esName": "EMailScenarioEncryptionSignatureActivation",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_DOCUMENT_OUT_REQ",
+        "esName": "DocumentOutputRequest",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "/DOC/OM_OUTPUT_ERROR",
+        "esName": "OutputError",
+        "newNameSpace": "http://sap.com/udm/Foundation/InputAndOutputManagement",
+        "oldNameSpace": "http://sap.com/xi/DocumentServices/Global"
+    },
+    {
+        "boName": "QICC_BO",
+        "esName": "QualityIssueCategoryCatalogue",
+        "newNameSpace": "http://sap.com/udm/Foundation/InspectionMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/QualityIssueCategoryCatalogue/Global"
+    },
+    {
+        "boName": "SDP_SAMPLE_DRAWING_PROC",
+        "esName": "SampleDrawingProcedure",
+        "newNameSpace": "http://sap.com/udm/Foundation/InspectionMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SampleDrawingProcedure/Global"
+    },
+    {
+        "boName": "IRU_INSPECTION_RULE",
+        "esName": "InspectionRule",
+        "newNameSpace": "http://sap.com/udm/Foundation/InspectionMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/InspectionRule/Global"
+    },
+    {
+        "boName": "/IBASE/INSTALLED_BASE",
+        "esName": "InstalledBase",
+        "newNameSpace": "http://sap.com/udm/Foundation/InstalledBaseDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/IBase/Global"
+    },
+    {
+        "boName": "/IBASE/INSTALL_POINT",
+        "esName": "InstallationPoint",
+        "newNameSpace": "http://sap.com/udm/Foundation/InstalledBaseDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/IBase/Global"
+    },
+    {
+        "boName": "SUPPLY_PLANNING_AREA",
+        "esName": "SupplyPlanningArea",
+        "newNameSpace": "http://sap.com/udm/Foundation/LocationDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SupplyPlanningArea/Global"
+    },
+    {
+        "boName": "LOC_LOGISTICS_PROC_CNTRL",
+        "esName": "LocationLogisticsProcessControl",
+        "newNameSpace": "http://sap.com/udm/Foundation/LocationDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/LocationDataManagement/Global"
+    },
+    {
+        "boName": "TRANSPORTATION_ZONE",
+        "esName": "TransportationZone",
+        "newNameSpace": "http://sap.com/udm/Foundation/LocationDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/TransportationZone/Global"
+    },
+    {
+        "boName": "LOCATION",
+        "esName": "Location",
+        "newNameSpace": "http://sap.com/udm/Foundation/LocationDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Location/Global"
+    },
+    {
+        "boName": "TRANSPORTATION_LANE",
+        "esName": "TransportationLane",
+        "newNameSpace": "http://sap.com/udm/Foundation/LocationDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/TransportationLane/Global"
+    },
+    {
+        "boName": "LOGISTICS_SDD_RULE",
+        "esName": "LogisticsSourceAndDestinationDeterminationRule",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsAreaAndStorageManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SourceAndDestinationDeterminationRule/Global"
+    },
+    {
+        "boName": "LOGISTICS_AREA",
+        "esName": "LogisticsArea",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsAreaAndStorageManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/LogisticsArea/Global"
+    },
+    {
+        "boName": "STORAGE_BEHAVIOUR_METHOD",
+        "esName": "StorageBehaviourMethod",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsAreaAndStorageManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/StorageBehaviourMethod/Global"
+    },
+    {
+        "boName": "STORAGE_CONTROL",
+        "esName": "StorageControl",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsAreaAndStorageManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/StorageControl/Global"
+    },
+    {
+        "boName": "DTLB_LOGISTICS_BREAK_PGM",
+        "esName": "LogisticsBreakProgramme",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsShiftAdministration",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/LogisticsBreakProgramme/Global"
+    },
+    {
+        "boName": "DTLS_LOGISTICS_SHIFT",
+        "esName": "LogisticsShift",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsShiftAdministration",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/LogisticsShift/Global"
+    },
+    {
+        "boName": "DTLP_LOGISTICS_SHIFT_PGM",
+        "esName": "LogisticsShiftProgramme",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticsShiftAdministration",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/LogisticsShiftProgramme/Global"
+    },
+    {
+        "boName": "IDENTIFIED_LOG_UNIT",
+        "esName": "IdentifiedLogisticUnit",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticUnitDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/LogisticUnitDataManagement/Global"
+    },
+    {
+        "boName": "LOGISTIC_UNIT",
+        "esName": "LogisticUnit",
+        "newNameSpace": "http://sap.com/udm/Foundation/LogisticUnitDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/LogisticUnit/Global"
+    },
+    {
+        "boName": "NUMBER_RANGE",
+        "esName": "NumberRange",
+        "newNameSpace": "http://sap.com/udm/Foundation/NumberRange",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/NumberRange/Global"
+    },
+    {
+        "boName": "NUMBER_RANGE_PROFILE",
+        "esName": "NumberRangeProfile",
+        "newNameSpace": "http://sap.com/udm/Foundation/NumberRange",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/NumberRange/Global"
+    },
+    {
+        "boName": "FINXF_COMP_FIN_PRO_CTRL",
+        "esName": "CompanyFinancialsProcessControl",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/CompanyFinancialsProcessControl/Global"
+    },
+    {
+        "boName": "/MOM/JOB",
+        "esName": "Job",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/COST_CENTRE",
+        "esName": "CostCentre",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/ORG_CENTRE",
+        "esName": "OrganisationalCentre",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/POSITION",
+        "esName": "Position",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/PERM_ESTABLISHMENT",
+        "esName": "PermanentEstablishment",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/COMPANY",
+        "esName": "Company",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/ORG_STRUC_ACTIVATION_RUN",
+        "esName": "OrganisationalStructureActivationRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/ORG_CENTRE_ACTIVATION",
+        "esName": "OrganisationalCentreActivation",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/REPORTING_LINE_UNIT",
+        "esName": "ReportingLineUnit",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/FUNCTIONAL_UNIT",
+        "esName": "FunctionalUnit",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/PROFIT_CENTRE",
+        "esName": "ProfitCentre",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "RESPONSIBILITY",
+        "esName": "Responsibility",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Responsibility/Global"
+    },
+    {
+        "boName": "/MOM/PROGRAMME",
+        "esName": "Programme",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "/MOM/SEGMENT",
+        "esName": "Segment",
+        "newNameSpace": "http://sap.com/udm/Foundation/OrganisationalManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/MOM/Global"
+    },
+    {
+        "boName": "FOPXF_CLRH_ACCT",
+        "esName": "ClearingHouseAccount",
+        "newNameSpace": "http://sap.com/udm/Foundation/PaymentMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentMasterDataManagement/Global"
+    },
+    {
+        "boName": "FOPXF_COVCSH",
+        "esName": "CoreViewOfCashStorage",
+        "newNameSpace": "http://sap.com/udm/Foundation/PaymentMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentMasterDataManagement/Global"
+    },
+    {
+        "boName": "FOPXF_PEXPL",
+        "esName": "PaymentExplanation",
+        "newNameSpace": "http://sap.com/udm/Foundation/PaymentMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentExplanation/Global"
+    },
+    {
+        "boName": "FOPXF_COVHBA",
+        "esName": "CoreViewOfHouseBankAccount",
+        "newNameSpace": "http://sap.com/udm/Foundation/PaymentMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentMasterDataManagement/Global"
+    },
+    {
+        "boName": "FOPXF_PAYCTRL",
+        "esName": "PaymentControl",
+        "newNameSpace": "http://sap.com/udm/Foundation/PaymentMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PaymentControl/Global"
+    },
+    {
+        "boName": "PLANNED_LANDED_COST_DOCUMENT",
+        "esName": "PlannedLandedCostDocument",
+        "newNameSpace": "http://sap.com/udm/Foundation/PllannedLandedCostProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PlannedLandedCost"
+    },
+    {
+        "boName": "PRC_PROCUREMENT_PS",
+        "esName": "ProcurementPriceSpecification",
+        "newNameSpace": "http://sap.com/udm/Foundation/PriceMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "SALES_PRICE_LIST_RELEASE_RUN",
+        "esName": "SalesPriceListReleaseRun",
+        "newNameSpace": "http://sap.com/udm/Foundation/PriceMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "PRC_SALES_PS",
+        "esName": "SalesPriceSpecification",
+        "newNameSpace": "http://sap.com/udm/Foundation/PriceMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "PRC_SALES_PRICE_LIST",
+        "esName": "SalesPriceList",
+        "newNameSpace": "http://sap.com/udm/Foundation/PriceMasterDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "PRCTAX_TAX",
+        "esName": "TaxCalculation",
+        "newNameSpace": "http://sap.com/udm/Foundation/PricingEngine",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "PRCTAX_PRICE",
+        "esName": "PriceCalculation",
+        "newNameSpace": "http://sap.com/udm/Foundation/PricingEngine",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "PRCTAX_PRICEANDTAX",
+        "esName": "PriceAndTaxCalculation",
+        "newNameSpace": "http://sap.com/udm/Foundation/PricingEngine",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/PriceAndTax/Global"
+    },
+    {
+        "boName": "APPVL_PRODUCT_VALUATION_LEVEL",
+        "esName": "ProductValuationLevel",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Product/Global"
+    },
+    {
+        "boName": "IDENTIFIED_STOCK",
+        "esName": "IdentifiedStock",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/IdentifiedStock/Global"
+    },
+    {
+        "boName": "PDM_INDIVIDUAL_PRODUCT",
+        "esName": "IndividualProduct",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "PDM_MATERIAL",
+        "esName": "Material",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "PDM_WARRANTY",
+        "esName": "Warranty",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "PDM_PRODUCT_TEMPLATE",
+        "esName": "Product_Template",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "PDM_PRODUCT",
+        "esName": "Product",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "PDM_ENTITLEMENT_PRODUCT",
+        "esName": "EntitlementProduct",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "PDM_SERVICE_PRODUCT",
+        "esName": "ServiceProduct",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductDataMaintenance",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductDataMaintenance/Global"
+    },
+    {
+        "boName": "RPPM_REL_PLAN_PROD_MODEL",
+        "esName": "ReleasedPlanningProductionModel",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductionModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ProductionModelProcessing/Global"
+    },
+    {
+        "boName": "BOM_PRODUCTION",
+        "esName": "ProductionBillOfMaterial",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductionModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ProductionModelProcessing/Global"
+    },
+    {
+        "boName": "REPM_REL_EXEC_PROD_MODEL",
+        "esName": "ReleasedExecutionProductionModel",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductionModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ProductionModelProcessing/Global"
+    },
+    {
+        "boName": "PRODUCTION_SEGMENT",
+        "esName": "ProductionSegment",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductionModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ProductionModelProcessing/Global"
+    },
+    {
+        "boName": "BOO_PRODUCTION",
+        "esName": "ProductionBillOfOperations",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductionModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ProductionModelProcessing/Global"
+    },
+    {
+        "boName": "PRODUCTION_MODEL",
+        "esName": "ProductionModel",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductionModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ProductionModelProcessing/Global"
+    },
+    {
+        "boName": "APPRPX_DO_PPLIST",
+        "esName": "ProductPropertyList",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductPropertyManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/ProductPropertyManagement/Global"
+    },
+    {
+        "boName": "PRODUCT_CATEG_HIERARCHY",
+        "esName": "ProductCategoryHierarchy",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductPropertyManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Product/Global"
+    },
+    {
+        "boName": "APPRPX_DO_PPVL",
+        "esName": "ProductPropertyValuationList",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductPropertyManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/IS/ProductPropertyManagement/Global"
+    },
+    {
+        "boName": "PRODUCT_REQUIREMENT_SPEC",
+        "esName": "ProductRequirementSpecification",
+        "newNameSpace": "http://sap.com/udm/Foundation/ProductRequirementSpecificationProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ProductRequirementSpecification/Global"
+    },
+    {
+        "boName": "RESOURCE_GROUP",
+        "esName": "ResourceGroup",
+        "newNameSpace": "http://sap.com/udm/Foundation/ResourceDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Resource/Global"
+    },
+    {
+        "boName": "ROTT",
+        "esName": "ResourceOperatingTimeTemplate",
+        "newNameSpace": "http://sap.com/udm/Foundation/ResourceDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Resource/Global"
+    },
+    {
+        "boName": "RESOURCE",
+        "esName": "Resource",
+        "newNameSpace": "http://sap.com/udm/Foundation/ResourceDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Resource/Global"
+    },
+    {
+        "boName": "INVOICE_SCHEDULE",
+        "esName": "InvoiceSchedule",
+        "newNameSpace": "http://sap.com/udm/Foundation/ScheduleDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ScheduleDataManagement/Global"
+    },
+    {
+        "boName": "PAYMENT_SCHEDULE",
+        "esName": "PaymentSchedule",
+        "newNameSpace": "http://sap.com/udm/Foundation/ScheduleDataManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/ScheduleDataManagement/Global"
+    },
+    {
+        "boName": "SITE_LOG_PROCESS_MODEL",
+        "esName": "SiteLogisticsProcessModel",
+        "newNameSpace": "http://sap.com/udm/Foundation/SiteLogisticsModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SiteLogisticsProcessModel/Global"
+    },
+    {
+        "boName": "BOO_SITE_LOGISTICS",
+        "esName": "SiteLogisticsBillOfOperations",
+        "newNameSpace": "http://sap.com/udm/Foundation/SiteLogisticsModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SiteLogisticsBillOfOperations/Global"
+    },
+    {
+        "boName": "REL_SITE_LOG_PRO_MOD",
+        "esName": "ReleasedSiteLogisticsProcessModel",
+        "newNameSpace": "http://sap.com/udm/Foundation/SiteLogisticsModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ReleasedSiteLogisticsProcessModel/Global"
+    },
+    {
+        "boName": "SITE_LOG_PRO_SEG",
+        "esName": "SiteLogisticsProcessSegment",
+        "newNameSpace": "http://sap.com/udm/Foundation/SiteLogisticsModelManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SiteLogisticsProcessSegment/Global"
+    },
+    {
+        "boName": "SPR_SOFTWARE_PROBLEM_REP",
+        "esName": "SoftwareProblemReport",
+        "newNameSpace": "http://sap.com/udm/Foundation/SoftwareProblemReporting",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/SoftwareProblemReporting/Global"
+    },
+    {
+        "boName": "SUPPLY_QUOTA_ARRANGEMENT",
+        "esName": "SupplyQuotaArrangement",
+        "newNameSpace": "http://sap.com/udm/Foundation/SourceOfSupplyDetermination",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/SourceOfSupplyDetermination/Global"
+    },
+    {
+        "boName": "SOURCING_LIST",
+        "esName": "SourcingList",
+        "newNameSpace": "http://sap.com/udm/Foundation/SourceOfSupplyDetermination",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/SourceOfSupplyDetermination/Global"
+    },
+    {
+        "boName": "SOURCE_OF_SUPPLY",
+        "esName": "SourceOfSupply",
+        "newNameSpace": "http://sap.com/udm/Foundation/SourceOfSupplyDetermination",
+        "oldNameSpace": "http://sap.com/xi/AP/PC/SourceOfSupplyDetermination/Global"
+    },
+    {
+        "boName": "APPROVAL_PROCESS_DEFINITION",
+        "esName": "ApprovalProcessDefinition",
+        "newNameSpace": "http://sap.com/udm/Foundation/WorkflowManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/ApprovalProcessDefinition/Global"
+    },
+    {
+        "boName": "TASK",
+        "esName": "Task",
+        "newNameSpace": "http://sap.com/udm/Foundation/WorkflowManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/Task/Global"
+    },
+    {
+        "boName": "WORKFLOW_CONDITION",
+        "esName": "WorkflowCondition",
+        "newNameSpace": "http://sap.com/udm/Foundation/WorkflowManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/Workflow/Global"
+    },
+    {
+        "boName": "FREIGHT_LIST",
+        "esName": "FreightList",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/FreightDocumentsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_INB_DELIVERY_REQ",
+        "esName": "InboundDeliveryRequest",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_CONF_INB_DELIVERY",
+        "esName": "ConfirmedInboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_CRET_CONF_INB_DELIVERY",
+        "esName": "CustomerReturnConfirmedInboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_CRET_INBOUND_DELIVERY",
+        "esName": "CustomerReturnInboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_SUPL_CONF_INB_DELIVERY",
+        "esName": "SupplierConfirmedInboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_SUPL_INBOUND_DELIVERY",
+        "esName": "SupplierInboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_INBOUND_DELIVERY",
+        "esName": "InboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APINV_SERIAL_INVENTORY",
+        "esName": "SerialInventory",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InventoryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APGAC_GA_CFM",
+        "esName": "GoodsAndActivityConfirmation",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InventoryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APINV_INVENTORY",
+        "esName": "Inventory",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InventoryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APIN_INVENTORY_NOTIFICATION",
+        "esName": "InventoryNotification",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/InventoryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APLEF_LOG_TASK_FOLDER",
+        "esName": "LogisticsTaskFolder",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/LogisticsTaskManagement",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "MIS_MAT_INSP_SAMP",
+        "esName": "MaterialInspectionSample",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/MaterialInspectionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "MIQL_MAT_INSP_QLEVEL",
+        "esName": "MaterialInspectionQualityLevel",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/MaterialInspectionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "MIN_MATERIAL_INSPECTION",
+        "esName": "MaterialInspection",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/MaterialInspectionProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_OUTBOUND_DELIVERY",
+        "esName": "OutboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/OutboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_CUST_OUTB_DELIVERY",
+        "esName": "CustomerOutboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/OutboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_RTS_OUTB_DELIVERY",
+        "esName": "SupplierReturnOutboundDelivery",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/OutboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APDL_OUTB_DELIVERY_REQ",
+        "esName": "OutboundDeliveryRequest",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/OutboundDeliveryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "PHYSICAL_INVENTORY_TASK",
+        "esName": "PhysicalInventoryTask",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/PhysicalInventoryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "PHYSICAL_INVENTORY_COUNT",
+        "esName": "PhysicalInventoryCount",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/PhysicalInventoryProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "PRODUCTION_ORDER",
+        "esName": "ProductionOrder",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/Production",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APPER_PRODUCTION_REQUEST",
+        "esName": "ProductionRequest",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/Production",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "PRODUCTION_TASK",
+        "esName": "ProductionTask",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/Production",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "PRODUCTION_LOT",
+        "esName": "ProductionLot",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/Production",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APPEC_PRODUCTION_CFM",
+        "esName": "ProductionConfirmation",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/Production",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "GTG_GOODS_TAG_GENERATOR",
+        "esName": "GoodsTagGenerator",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/ProductionAndSiteLogisticsAuxiliariesProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "SITE_LOGISTICS_REQUEST",
+        "esName": "SiteLogisticsRequest",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/SiteLogisticsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "SITE_LOGISTICS_LOT",
+        "esName": "SiteLogisticsLot",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/SiteLogisticsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "SITE_LOGISTICS_TASK",
+        "esName": "SiteLogisticsTask",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/SiteLogisticsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "LOGISTICS_SRC_DST_LIST",
+        "esName": "LogisticsSourceAndDestinationList",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/SiteLogisticsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "SITE_LOGISTICS_ORDER",
+        "esName": "SiteLogisticsOrder",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/SiteLogisticsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "APSLC_SITE_LOGISTICS_CFM",
+        "esName": "SiteLogisticsConfirmation",
+        "newNameSpace": "http://sap.com/udm/ProductionAndSiteLogisticsExecution/SiteLogisticsProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/LogisticsExecution/Global"
+    },
+    {
+        "boName": "PRO_CUST_PROJ_INV_REQSTN",
+        "esName": "CustomerProjectInvoiceRequisition",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/CustomerProjectInvoicePreparation",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_CUST_PROJ_INV_AGRMT",
+        "esName": "CustomerProjectInvoicingAgreement",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/CustomerProjectInvoicePreparation",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_CUST_PROJ_EXPNS_LST",
+        "esName": "CustomerProjectExpenseList",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/CustomerProjectInvoicePreparation",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT_PURCHASE_REQ",
+        "esName": "ProjectPurchaseRequest",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJ_EXP_REASSIGN_REQ",
+        "esName": "ProjectExpenseReassignmentRequisition",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT_SNAPSHOT",
+        "esName": "ProjectSnapshot",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT_BASELINE",
+        "esName": "ProjectBaseline",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT_EXPENSE_VIEW",
+        "esName": "ProjectExpenseView",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT_STOCK_ORDER",
+        "esName": "ProjectStockOrder",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT",
+        "esName": "Project",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "PRO_PROJECT_VIEW_OF_CTD",
+        "esName": "ProjectProcessingViewOfCustomerTransactionDocument",
+        "newNameSpace": "http://sap.com/udm/ProjectManagement/ProjectProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/ProjectManagement/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_GSA",
+        "esName": "GoodsAndServiceAcknowledgement",
+        "newNameSpace": "http://sap.com/udm/Purchasing/GoodsAndServiceAcknowledgement",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_PCO",
+        "esName": "PurchaseOrderConfirmation",
+        "newNameSpace": "http://sap.com/udm/Purchasing/PurchaseOrderProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_PO",
+        "esName": "PurchaseOrder",
+        "newNameSpace": "http://sap.com/udm/Purchasing/PurchaseOrderProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_POC_RUN",
+        "esName": "PurchaseOrderCreationRun",
+        "newNameSpace": "http://sap.com/udm/Purchasing/PurchaseRequestProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_PR",
+        "esName": "PurchaseRequest",
+        "newNameSpace": "http://sap.com/udm/Purchasing/PurchaseRequestProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_PCT",
+        "esName": "PurchasingContract",
+        "newNameSpace": "http://sap.com/udm/Purchasing/PurchasingContractProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LPURX_RTS",
+        "esName": "ReturnToSupplier",
+        "newNameSpace": "http://sap.com/udm/Purchasing/ReturnToSupplier",
+        "oldNameSpace": "http://sap.com/xi/AP/Purchasing/Global"
+    },
+    {
+        "boName": "/SRMAP/LREQX_IR",
+        "esName": "InternalRequest",
+        "newNameSpace": "http://sap.com/udm/Requisitioning/InternalRequestProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/Requisitioning/Global"
+    },
+    {
+        "boName": "CCS_TENANT_LICENSE",
+        "esName": "CcsTenantLicense",
+        "newNameSpace": "http://sap.com/udm/SAPCustomerAndPartnerControlCentre/SAPCustomerAndPartnerControlCentreManagement",
+        "oldNameSpace": "http://sap.com/xi/A1S"
+    },
+    {
+        "boName": "CCS_TOMBSTONE",
+        "esName": "CcsTombstone",
+        "newNameSpace": "http://sap.com/udm/SAPCustomerAndPartnerControlCentre/SAPCustomerAndPartnerControlCentreManagement",
+        "oldNameSpace": "http://sap.com/xi/A1S"
+    },
+    {
+        "boName": "/SRMAP/LRFQX_RFQ",
+        "esName": "RequestForQuote",
+        "newNameSpace": "http://sap.com/udm/StrategicSourcing/RFQProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/RFQProcessing/Global"
+    },
+    {
+        "boName": "/SRMAP/LRFQX_QTE",
+        "esName": "SupplierQuote",
+        "newNameSpace": "http://sap.com/udm/StrategicSourcing/RFQProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/RFQProcessing/Global"
+    },
+    {
+        "boName": "/SRMAP/LRFQX_RQR",
+        "esName": "RFQRequest",
+        "newNameSpace": "http://sap.com/udm/StrategicSourcing/RFQProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/RFQProcessing/Global"
+    },
+    {
+        "boName": "/SRMAP/LSIVX_SIR",
+        "esName": "SupplierInvoiceRequest",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "/SRMAP/LSIVX_SIX",
+        "esName": "SupplierInvoiceVerificationException",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "DELAYED_BO_PROCESSING_RUN",
+        "esName": "DelayedBusinessObjectProcessingRun",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/DelayedBOProcessing/Global"
+    },
+    {
+        "boName": "DELAYED_BO_PROCESSING",
+        "esName": "DelayedBusinessObjectProcessing",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/FO/DelayedBOProcessing/Global"
+    },
+    {
+        "boName": "/SRMAP/CREDIT_MEMO",
+        "esName": "CreditMemo",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "/SRMAP/DOWN_PAYMENT_REQUEST",
+        "esName": "DownPaymentRequest",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "/SRMAP/INVOICE",
+        "esName": "Invoice",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "/SRMAP/ORDER_SIR",
+        "esName": "OrderSupplierInvoiceRequest",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "/SRMAP/LSIVX_SIV",
+        "esName": "SupplierInvoice",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "/SRMAP/LSIVX_ERS_RUN",
+        "esName": "EvaluatedReceiptSettlementRun",
+        "newNameSpace": "http://sap.com/udm/SupplierInvoicing/SupplierInvoiceProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplierInvoicing/Global"
+    },
+    {
+        "boName": "APCR_CUSTOMER_REQ",
+        "esName": "CustomerRequirement",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/CustomerRequirementProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "APACR_ATP_CHECK_RUN",
+        "esName": "AvailableToPromiseCheckRun",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/CustomerRequirementProcessing",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "EPTR_PVPO",
+        "esName": "PlanningViewOfPurchaseOrder",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/ExternalProcurementTriggerAndResponse",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "EPTR_PREQ",
+        "esName": "PurchaseRequisition",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/ExternalProcurementTriggerAndResponse",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "APRO_PROCMT_REL_ORDER",
+        "esName": "ProcurementReleaseOrder",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/ExternalProcurementTriggerAndResponse",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "APLC_LOG_EXEC_REQUI",
+        "esName": "LogisticsExecutionRequisition",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/LogisticsExecutionControl",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "APPRN_PRD_REQUISITION",
+        "esName": "ProductionRequisition",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/ProductionTriggerAndResponse",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "PLANNED_MATERIAL_FLOW",
+        "esName": "PlannedMaterialFlow",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "PROCUREMENT_PLNG_ORDER",
+        "esName": "ProcurementPlanningOrder",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "APSDM_SPRQ",
+        "esName": "SupplyPlanningRequirement",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "ORDER_FULFILM_PLNG_VIEW",
+        "esName": "OrderFulfillmentPlanningView",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "MRP_SECTION",
+        "esName": "MaterialRequirementsPlanningSection",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "SUP_PLNG_EXCEPTION_VIEW",
+        "esName": "SupplyPlanningExceptionView",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "PLANNED_INDP_REQUIREMENT",
+        "esName": "PlannedIndependentRequirement",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "SUP_PLNG_EXCEPTION",
+        "esName": "SupplyPlanningException",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "PLNG_VIEW_OF_INVENTORY",
+        "esName": "PlanningViewOfInventory",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "MAT_SUPPLY_DEMAND_VIEW",
+        "esName": "MaterialSupplyAndDemandView",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "STOCK_TRANSFER_PROPOSAL",
+        "esName": "StockTransferProposal",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+    {
+        "boName": "PRODUCTION_PLNG_ORDER",
+        "esName": "ProductionPlanningOrder",
+        "newNameSpace": "http://sap.com/udm/SupplyChainControl/SupplyAndDemandMatching",
+        "oldNameSpace": "http://sap.com/xi/AP/SupplyChainControl/Global"
+    },
+      {
+        "boName": "",
+        "esName": "",
+        "newNameSpace":"http://sap.com/udm/Common/Global",
+        "oldNameSpace": "http://sap.com/xi/AP/Common/Global"
+    },
+       {
+        "boName": "",
+        "esName": "",
+        "newNameSpace":"http://sap.com/udm/Common/DataTypes",
+        "oldNameSpace": "http://sap.com/xi/Common/DataTypes"
+    },
+       {
+        "boName": "",
+        "esName": "",
+        "newNameSpace":"http://sap.com/udm/Common/GDT",
+        "oldNameSpace": "http://sap.com/xi/AP/Common/GDT"
+    },
+       {
+        "boName": "",
+        "esName": "",
+        "newNameSpace":"http://sap.com/udm/Metamodel",
+        "oldNameSpace": "http://sap.com/xi/Metamodel"
+    },
+     {
+        "boName": "",
+        "esName": "",
+        "newNameSpace":"http://sap.com/udm/BASIS/Global",
+        "oldNameSpace": "http://sap.com/xi/BASIS/Global"
+    },
+       {
+        "boName": "",
+        "esName": "",
+        "newNameSpace":"http://sap.com/udm/Globalization/GDT",
+        "oldNameSpace": "http://sap.com/xi/AP/Globalization/GDT"
+    }
+        
+]
